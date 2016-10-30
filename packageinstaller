@@ -1,0 +1,11 @@
+          {
+     {
+{
+package.Android.zip
+(zip);install
+sdcard0/Android/obb
+package=zip
+{load;files=open}
+}
+        }
+             }
